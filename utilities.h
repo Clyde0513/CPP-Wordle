@@ -1,4 +1,4 @@
-#pragma once
+#pragma 
 // utilities.h
 
 const int MINWORDLEN = 4;
